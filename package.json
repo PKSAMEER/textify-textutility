@@ -1,6 +1,6 @@
 {
   "name": "myapp",
-  "homepage": "https://PKSAMEER.github.io/text-utils-textify-react",
+  "homepage": "https://pksameer.github.io/text-utils-textify-react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -40,6 +40,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.1.1"
+    "gh-pages": "^6.2.0"
   }
 }
