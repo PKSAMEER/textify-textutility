@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/text-utils-textify-react/static/css/main.229cc958.css",
-    "main.js": "/text-utils-textify-react/static/js/main.2e4b55f5.js",
-    "static/js/453.64512fd7.chunk.js": "/text-utils-textify-react/static/js/453.64512fd7.chunk.js",
-    "index.html": "/text-utils-textify-react/index.html",
-    "main.229cc958.css.map": "/text-utils-textify-react/static/css/main.229cc958.css.map",
-    "main.2e4b55f5.js.map": "/text-utils-textify-react/static/js/main.2e4b55f5.js.map",
-    "453.64512fd7.chunk.js.map": "/text-utils-textify-react/static/js/453.64512fd7.chunk.js.map"
+    "main.css": "/textify-textutility/static/css/main.229cc958.css",
+    "main.js": "/textify-textutility/static/js/main.c18e5c50.js",
+    "static/js/453.64512fd7.chunk.js": "/textify-textutility/static/js/453.64512fd7.chunk.js",
+    "index.html": "/textify-textutility/index.html",
+    "main.229cc958.css.map": "/textify-textutility/static/css/main.229cc958.css.map",
+    "main.c18e5c50.js.map": "/textify-textutility/static/js/main.c18e5c50.js.map",
+    "453.64512fd7.chunk.js.map": "/textify-textutility/static/js/453.64512fd7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.229cc958.css",
-    "static/js/main.2e4b55f5.js"
+    "static/js/main.c18e5c50.js"
   ]
 }
