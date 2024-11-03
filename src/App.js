@@ -48,7 +48,7 @@ function App() {
         <div className="container my-3">
           <Routes>
             <Route exact path="/about" element={<About mode={mode} />} />
-            <Route exact path="/" element={<Textfield showAlert={showAlert} heading="Enter Text to analyze" mode={mode} />} />
+            <Route exact path="/" element={<Textfield showAlert={showAlert} heading="Enter Text to analyze!" mode={mode} />} />
             <Route path="*" element={<Navigate to="/" />} />
           </Routes>
         </div>
